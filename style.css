@@ -1,0 +1,15 @@
+/*
+ Theme Name:     Soluconsole
+ Theme URI:      https://github.com/soluconsole/Solutions-Console-WP-Theme
+ Description:    Custom Blank Theme template for Solutions Console
+ Author:         Solutions Console
+ Author URI:     https://solutionsconsole.co.za
+ Version:        1.0.0
+*/
+ 
+ 
+/* =custom theme styles go here
+------------------------------------------------------- */
+body {
+    background: blueviolet;
+}
